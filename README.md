@@ -1,5 +1,4 @@
-### Hi, I'm Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Co--founder/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
+# Hi, I'm Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## In short, Tech Enthusiast with passion for Web and Mobile Development!
 - 🔭 I’m currently working on - Misterious projects...
