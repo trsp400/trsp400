@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Thiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Co--founder/Author%20%40%20fullyunderstood.com-blogs-green?style=flat-square)](https://fullyunderstood.com/author/indrajitbnikam/)
 
-<!--
-**trsp400/trsp400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## In short, Tech Enthusiast with passion for Web and Mobile Development!
+- 🔭 I’m currently working on - Misterious projects...
+- 🌱 I’m currently learning - Redis, Blockchain, Elixir and Flutter (yes, everything)
+- 👯 I’m looking to increase my network, and get more knowledge
+- 💬 You can text me, or ask me about - React and NodeJS 😉
+- 🥅 2021 Goal - Create a blockchain, a full backend with Elixir, and a nice Mobile app with Flutter!
+- ⚡ Fun fact - I can say that i'm really good at developing node APIs
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=trsp400&count_private=true&include_all_commits=true&theme=radical)](https://github.com/trsp400?tab=repositories)
+
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][medium]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+## Latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [MultiStep Form with react](https://roblesthiago38.medium.com/como-criar-um-multistep-form-com-reactjs-b8d51159758)
+- [About Clean Code](https://roblesthiago38.medium.com/clean-code-c30b2c440068)
+<!-- BLOG-POST-LIST:END -->
+
+[medium]: https://roblesthiago38.medium.com/
+[linkedin]: https://www.linkedin.com/in/thiago-r-a904bb119/
