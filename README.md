@@ -12,8 +12,9 @@
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=trsp400&count_private=true&include_all_commits=true&theme=radical)](https://github.com/trsp400?tab=repositories)
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][medium](https://roblesthiago38.medium.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/thiago-r-a904bb119/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />](https://anonymousrob.medium.com/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiago-r-a904bb119/)
+
 <br />
 
 ## Latest blog posts:
