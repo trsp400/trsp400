@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning - Redis, Blockchain, Elixir and Flutter (yes, everything)
 - 👯 I’m looking to increase my network, and get more knowledge
 - 💬 You can text me, or ask me about - React and NodeJS 😉
-- 🥅 2021 Goal - Create a blockchain, a full backend with Elixir, and a nice Mobile app with Flutter!
+- 🥅 2022 Goal - Create a blockchain, a full backend with Elixir, and a nice Mobile app with Flutter!
 - ⚡ Fun fact - I can say that i'm really good at developing node APIs
 
 
