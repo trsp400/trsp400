@@ -2,11 +2,11 @@
 
 ## In short, Tech Enthusiast with passion for Web and Mobile Development!
 - 🔭 I’m currently working on - Misterious projects...
-- 🌱 I’m currently learning - Redis, Blockchain, Elixir and Flutter (yes, everything)
+- 🌱 I’m currently learning - Redis, Blockchain
 - 👯 I’m looking to increase my network, and get more knowledge
-- 💬 You can text me, or ask me about - React and NodeJS 😉
-- 🥅 2022 Goal - Create a blockchain, a full backend with Elixir, and a nice Mobile app with Flutter!
-- ⚡ Fun fact - I can say that i'm really good at developing node APIs
+- 💬 You can text me, or ask me about - anything about Javascript 😉
+- 🥅 2023 Goal - Create a blockchain and a backend SaaS!
+- ⚡ Fun fact - I'm pretty good in designing and architecting softwares and solutions
 
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=trsp400&count_private=true&include_all_commits=true&theme=radical)](https://github.com/trsp400?tab=repositories)
