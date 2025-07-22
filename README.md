@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning - Redis, Blockchain
 - 👯 I’m looking to increase my network, and get more knowledge
 - 💬 You can text me, or ask me about - anything about Javascript and Python 😉
-- 🥅 2024 Goal - Create a blockchain and a backend SaaS!
 - ⚡ Fun fact - I'm pretty good in designing and architecting softwares and solutions
 
 
